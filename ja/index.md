@@ -5,6 +5,8 @@
 
 `nc.menhera.org` Menhera.org (一般社団法人生活情報基盤研究機構) のネットワーク・オペレーションズ・センター (NOC) のドメインです。
 
+* [Menhera.org ネットワークバックボーン](backbone.html)
+
 ## 管理するネットワーク資源
 
 Menhera.org は自律システム番号 (ASN)， AS63806 を持ちます。

@@ -5,6 +5,8 @@
 
 `nc.menhera.org` is the domain for Network Operations of Menhera.org (Human-life Information Platforms Institute).
 
+* [Menhera.org network backbone](backbone.html)
+
 ## Managing Network resources
 
 Menhera.org has the autonomous system number (ASN), AS63806.
