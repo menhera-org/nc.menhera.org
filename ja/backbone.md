@@ -1,5 +1,10 @@
 # Menhera.org ネットワークバックボーン
 
+## Map
+
+![Backbone Weathermap](https://librenms.menhera.org/plugins/Weathermap/output/backbone.png)
+
+## MTU サイズ
 私たちのネットワークはトンネリング技術を使用して相互接続しています。
 
 * 保証された Menhera.org のインターネット接続の MTU は 1426 です。

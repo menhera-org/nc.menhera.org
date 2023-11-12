@@ -1,5 +1,10 @@
 # Menhera.org Network Backbone
 
+## Map
+
+![Backbone Weathermap](https://librenms.menhera.org/plugins/Weathermap/output/backbone.png)
+
+## MTU sizes
 Our network is interconnected with tunneling technologies.
 
 * Guaranteed MTU for Menhera.org Internet links is 1426.
