@@ -6,6 +6,7 @@
 `nc.menhera.org` Menhera.org (一般社団法人生活情報基盤研究機構) のネットワーク・オペレーションズ・センター (NOC) のドメインです。
 
 * [Menhera.org ネットワークバックボーン](backbone.html)
+* [BGP Looking Glass](https://looking-glass.nc.menhera.org/)
 
 ## 管理するネットワーク資源
 

@@ -1,5 +1,8 @@
 # Menhera.org Network Backbone
 
+* [Top](/)
+* [BGP Looking Glass](https://looking-glass.nc.menhera.org/)
+
 ## Map
 
 ![Backbone Weathermap](https://librenms.menhera.org/plugins/Weathermap/output/backbone.png)
