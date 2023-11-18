@@ -3,6 +3,9 @@
 **Languages**: **English**
 | [Japanese (日本語)](/ja/)
 
+* [Corporate site (Japanese): www.menhera.or.jp](https://www.menhera.or.jp/)
+* [Project site: www.menhera.org](https://www.menhera.org/)
+
 `nc.menhera.org` is the domain for Network Operations of Menhera.org (Human-life Information Platforms Institute).
 
 * [Menhera.org network backbone](backbone.html)
@@ -10,7 +13,7 @@
 
 ## Managing Network resources
 
-Menhera.org has the autonomous system number (ASN), AS63806.
+Menhera.org has the autonomous system number (ASN), AS63806 (**MENHERA**).
 It has also IPv4 and IPv6 address prefixes, called together **MENHERA-NET**.
 
 _MENHERA-NET_ prefixes:

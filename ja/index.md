@@ -3,6 +3,9 @@
 **Languages**: **Japanese (日本語)**
 | [English](/)
 
+* [法人サイト: www.menhera.or.jp](https://www.menhera.or.jp/)
+* [プロジェクトサイト (英語): www.menhera.org](https://www.menhera.org/)
+
 `nc.menhera.org` Menhera.org (一般社団法人生活情報基盤研究機構) のネットワーク・オペレーションズ・センター (NOC) のドメインです。
 
 * [Menhera.org ネットワークバックボーン](backbone.html)
@@ -10,7 +13,7 @@
 
 ## 管理するネットワーク資源
 
-Menhera.org は自律システム番号 (ASN)， AS63806 を持ちます。
+Menhera.org は自律システム番号 (ASN)， AS63806 (**MENHERA**) を持ちます。
 それはまた IPv4 と IPv6 のアドレス プレフィックスたちを持ち，それらのネットワークは一緒に **MENHERA-NET** と呼ばれています。
 
 _MENHERA-NET_ のプレフィックスたち：

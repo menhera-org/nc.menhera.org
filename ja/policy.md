@@ -3,6 +3,8 @@
 Languages: **Japanese (日本語)**
 | [English](/policy.html)
 
+* [トップ](/ja/)
+
 ## AS ピアリングポリシー
 
 ピアリングポリシーは Selective です。

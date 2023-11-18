@@ -3,6 +3,8 @@
 Languages: **English**
 | [Japanese (日本語)](/ja/policy.html)
 
+* [Top](/)
+
 ## AS peering policy
 
 Our peering policy is Selective.
