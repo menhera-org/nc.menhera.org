@@ -23,6 +23,21 @@ _MENHERA-NET_ prefixes:
 | IPv4       | 43.228.174.0/24 |
 | IPv6       | 2001:0df3:14c0::/48 |
 
+### Recognizing traffic from the organization
+
+#### Trusteed and untrusted traffic
+
+The following IP ranges are for guests and isolated network services,
+so please remove them from your whitelist if you only want to allow traffic from Menhera.org.
+
+We also do not send emails from these IP addresses.
+On our side, we block outgoing port 25 from these IP addresses.
+
+| Purpose | IPv4 | IPv6 |
+|---------|------|------|
+| Guests | 43.228.174.224/28 | 2001:0df3:14c0:fe00::/56 |
+| Isolated networking services | 43.228.174.240/28 | 2001:0df3:14c0:ff00::/56 |
+
 ### DNS domain names
 
 Obviously, `menhera.org.` is our main domain. `menhera.com.` is used by some internal services.
