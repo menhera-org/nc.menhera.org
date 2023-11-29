@@ -5,7 +5,7 @@
 
 ## Map
 
-![Backbone Weathermap](https://librenms.menhera.org/plugins/Weathermap/output/backbone.png)
+![Backbone Weathermap](https://librenms.menhera.org/pub/weathermap/backbone.svg)
 
 ## MTU sizes
 Our network is interconnected with tunneling technologies.

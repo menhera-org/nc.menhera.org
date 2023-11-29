@@ -5,7 +5,7 @@
 
 ## Map
 
-![Backbone Weathermap](https://librenms.menhera.org/plugins/Weathermap/output/backbone.png)
+![Backbone Weathermap](https://librenms.menhera.org/pub/weathermap/backbone.svg)
 
 ## MTU サイズ
 私たちのネットワークはトンネリング技術を使用して相互接続しています。
