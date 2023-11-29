@@ -7,6 +7,16 @@
 
 ![Backbone Weathermap](https://librenms.menhera.org/pub/weathermap/backbone.svg)
 
+## Sites
+
+### Tsuchiura (t)
+
+![Backbone Weathermap](https://librenms.menhera.org/pub/weathermap/tsuchiura.svg)
+
+### Chofu (c)
+
+![Backbone Weathermap](https://librenms.menhera.org/pub/weathermap/chofu.svg)
+
 ## MTU sizes
 Our network is interconnected with tunneling technologies.
 
