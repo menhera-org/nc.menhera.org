@@ -3,11 +3,13 @@
 * [Top](/)
 * [BGP Looking Glass](https://looking-glass.nc.menhera.org/)
 
-## Map
+![Backbone](/assets/img/backbone-map.png)
+
+## Weathermap
+
+### Backbone
 
 ![Backbone Weathermap](https://librenms.menhera.org/pub/weathermap/backbone.svg)
-
-## Sites
 
 ### Tsuchiura (t)
 
