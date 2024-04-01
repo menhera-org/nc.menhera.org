@@ -11,14 +11,6 @@
 
 ![Backbone Weathermap](https://librenms.menhera.org/pub/weathermap/backbone.svg)
 
-### 土浦 (t)
-
-![Backbone Weathermap](https://librenms.menhera.org/pub/weathermap/tsuchiura.svg)
-
-### 調布 (c)
-
-![Backbone Weathermap](https://librenms.menhera.org/pub/weathermap/chofu.svg)
-
 ## MTU サイズ
 私たちのネットワークはトンネリング技術を使用して相互接続しています。
 
