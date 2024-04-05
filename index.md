@@ -53,3 +53,13 @@ Normally, authoritative servers for our domains are ns01.menhera.org, ns02.menhe
 ## Policy
 
 See [Policy](policy.html).
+
+## Maintenance and network faults information
+
+- Planned (as of April 2024): \[Maintenance\] The access line for Tsuchiura networks will be down for a short time, to update equipments. The date will be announced when determined.
+- Planned (as of April 2024): \[Maintenance\] The site networks at Chofu will be down for a while to replace NICs of a router.
+- 2024-03-31 to 2024-04-04: \[Fault\] Network configuration problems affecting our email servers prevented some email from reaching our users.
+- 2024-03-30: \[Maintenance\] Servers at Tsuchiura (private ASN 65198) was unavailable due to switching networks.
+- 2024-03-27: \[Fault\] Reorganizing certain parts of the network triggered buggy behavior in some routers, and traffic was disrupted for a while.
+- 2024-03-25: \[Maintenance\] Reorganizing backbone connections disrupted some traffic for a while. This was done to make some redundancy in our networks.
+- 2024-03-09: \[Fault\] A router at Tsuchiura failed and part of the network went down.
