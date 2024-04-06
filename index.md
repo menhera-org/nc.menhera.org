@@ -58,6 +58,7 @@ See [Policy](policy.html).
 
 - Planned (as of April 2024): \[Maintenance\] The access line for Tsuchiura networks will be down for a short time, to update equipments. The date will be announced when determined.
 - Planned (as of April 2024): \[Maintenance\] The site networks at Chofu will be down for a while to replace NICs of a router.
+- 2024-04-06: \[Maintenance\] Upstream provider of Menhera.org (HOMENOC POP03) will be down for maintenance (1400-2000+0900) and this can affect our networks to cause short (up to 5 minutes) outage.
 - 2024-03-31 to 2024-04-04: \[Fault\] Network configuration problems affecting our email servers prevented some email from reaching our users.
 - 2024-03-30: \[Maintenance\] Servers at Tsuchiura (private ASN 65198) was unavailable due to switching networks.
 - 2024-03-27: \[Fault\] Reorganizing certain parts of the network triggered buggy behavior in some routers, and traffic was disrupted for a while.
