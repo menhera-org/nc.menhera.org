@@ -54,6 +54,9 @@ Normally, authoritative servers for our domains are ns01.menhera.org, ns02.menhe
 
 See [Policy](policy.html).
 
+## Updates
+- 2024-07-20: New upstream provider AS150369 (Infal TelHi) is now available and connected.
+
 ## Maintenance and network faults information
 
 - Planned (as of April 2024): \[Maintenance\] The access line for Tsuchiura networks will be down for a short time, to update equipments. The date will be announced when determined.
