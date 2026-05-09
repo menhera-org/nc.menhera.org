@@ -1,5 +1,5 @@
 
-**English**
+> **English**
 
 - [Top](/)
 - [AS63806 Backbone](/backbone.html)
@@ -7,7 +7,7 @@
 
 ---
 
-**Japanese**
+> **Japanese**
 
 - [日本語トップ](/ja/)
 - [AS63806 バックボーン](/ja/backbone.html)
