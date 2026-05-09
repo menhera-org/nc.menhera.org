@@ -1,4 +1,8 @@
-# Policy
+---
+title: Policy
+description: The peering policy of AS63806 Menhera®.
+lang: en
+---
 
 Languages: **English**
 | [Japanese (日本語)](/ja/policy.html)

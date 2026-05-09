@@ -1,4 +1,8 @@
-# Menhera.org ネットワークバックボーン
+---
+title: AS63806 Menhera® ネットワークバックボーン
+description: 一般社団法人生活情報基盤研究機構 (Menhera) によって運用されている、AS63806 Menhera®バックボーンについて。
+lang: ja
+---
 
 * [トップ](/ja/)
 * [BGP Looking Glass](https://looking-glass.nc.menhera.org/)

@@ -1,10 +1,11 @@
-# Networking Operations of Menhera.org
+---
+title: AS63806 NOC Top
+description: This is the homepage for AS63806 Menhera®, operated by the Human-life Information Platforms Institute (Menhera).
+lang: en
+---
 
 **Languages**: **English**
 | [Japanese (日本語)](/ja/)
-
-* [Corporate site (Japanese): www.menhera.or.jp](https://www.menhera.or.jp/)
-* [Project site: www.menhera.org](https://www.menhera.org/)
 
 `nc.menhera.org` is the domain for Network Operations of Menhera.org (Human-life Information Platforms Institute). Menhera.org is an 'IP Address Management Agent' (LIR) at JPNIC.
 

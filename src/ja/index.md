@@ -1,10 +1,11 @@
-# Networking Operations of Menhera.org
+---
+title: AS63806 NOC トップ
+description: 一般社団法人生活情報基盤研究機構 (Menhera) によって運用されている、AS63806 Menhera®のホームページです。
+lang: ja
+---
 
 **Languages**: **Japanese (日本語)**
 | [English](/)
-
-* [法人サイト: www.menhera.or.jp](https://www.menhera.or.jp/)
-* [プロジェクトサイト (英語): www.menhera.org](https://www.menhera.org/)
 
 `nc.menhera.org` Menhera.org (一般社団法人生活情報基盤研究機構) のネットワーク・オペレーションズ・センター (NOC) のドメインです。Menhera.org は JPNIC における IPアドレス管理指定事業者 (LIR) です。
 

@@ -1,0 +1,44 @@
+{
+  "site_config": {
+    "favicon_url": "/assets/icon.png",
+    "branding_logo_url": "/assets/branding.png",
+    "site_name": "AS63806 Menhera® NOC",
+    "site_short_name": "AS63806 NOC",
+    "site_slogan": "Integrated in respected individuals",
+    "base_url": "https://www.menhera.ad.jp/"
+  },
+  "css_vars": {
+    "--drawer-width": "20rem"
+  },
+  "themes": {
+    "light": {
+      "--theme-primary-text-color": "#333",
+      "--theme-secondary-text-color": "#666",
+      "--theme-disabled-text-color": "#999",
+      "--theme-main-background-color": "#f5f5f5",
+      "--theme-highlight-background-color": "#ffffff",
+      "--theme-accent-color": "#5eaf30",
+      "--theme-secondary-accent-color": "#cdebc5",
+      "--theme-accent-text-color": "#ffffff",
+      "--theme-overlay-color": "#00000080",
+      "--theme-selected-color": "#00000030"
+    },
+    "dark": {
+      "--theme-primary-text-color": "#ccc",
+      "--theme-secondary-text-color": "#999",
+      "--theme-disabled-text-color": "#666",
+      "--theme-main-background-color": "#222222",
+      "--theme-highlight-background-color": "#000000",
+      "--theme-accent-color": "#5eaf30",
+      "--theme-secondary-accent-color": "#2b3328",
+      "--theme-accent-text-color": "#ffffff",
+      "--theme-overlay-color": "#ffffff80",
+      "--theme-selected-color": "#ffffff30"
+    }
+  },
+  "shortcuts": [
+    {"icon":"business", "title": "CORP", "url":"https://www.menhera.or.jp/"},
+    {"icon":"public", "title": "NOC", "url":"https://www.menhera.ad.jp/", "selected": true},
+    {"icon":"work", "title": "Projects", "url":"https://www.menhera.org/"}
+  ]
+}

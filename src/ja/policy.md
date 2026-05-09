@@ -1,4 +1,8 @@
-# ポリシー
+---
+title: ポリシー
+description: AS63806 Menhera®のASピアリングポリシーです。
+lang: ja
+---
 
 Languages: **Japanese (日本語)**
 | [English](/policy.html)
