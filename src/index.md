@@ -53,7 +53,7 @@ Normally, authoritative servers for our domains are from `mdns.jp`.
 
 ## MAC Address
 
-We are assigned a MAC address block from IEEE:
+We have been assigned a MAC address block from IEEE:
 
 | range | start | end |
 |-------|-------|-----|
