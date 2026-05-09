@@ -1,2 +1,2 @@
-# nc.menhera.org
-nc.menhera.org Website (Networking Operations of Information Technology Center; Menhera.org)
+# www.menhera.ad.jp
+www.menhera.ad.jp Website (Networking Operations of Information Technology Center; Menhera.org)
