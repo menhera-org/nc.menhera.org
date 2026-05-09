@@ -7,7 +7,7 @@ lang: en
 **Languages**: **English**
 | [Japanese (日本語)](/ja/)
 
-`nc.menhera.org` is the domain for Network Operations of Menhera.org (Human-life Information Platforms Institute). Menhera.org is an 'IP Address Management Agent' (LIR) at JPNIC.
+`menhera.ad.jp` is the domain for Network Operations of Menhera.org (Human-life Information Platforms Institute). Menhera.org is an 'IP Address Management Agent' (LIR) at JPNIC.
 
 * [Menhera.org network backbone](backbone.html)
 * [BGP Looking Glass](https://looking-glass.nc.menhera.org/)

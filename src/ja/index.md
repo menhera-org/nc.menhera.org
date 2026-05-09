@@ -7,7 +7,7 @@ lang: ja
 **Languages**: **Japanese (日本語)**
 | [English](/)
 
-`nc.menhera.org` Menhera.org (一般社団法人生活情報基盤研究機構) のネットワーク・オペレーションズ・センター (NOC) のドメインです。Menhera.org は JPNIC における IPアドレス管理指定事業者 (LIR) です。
+`menhera.ad.jp` はMenhera.org (一般社団法人生活情報基盤研究機構) のネットワーク・オペレーションズ・センター (NOC) のドメインです。Menhera.org は JPNIC における IPアドレス管理指定事業者 (LIR) です。
 
 * [Menhera.org ネットワークバックボーン](backbone.html)
 * [BGP Looking Glass](https://looking-glass.nc.menhera.org/)
