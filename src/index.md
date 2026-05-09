@@ -51,6 +51,16 @@ We use `*.menhera.io.` subdomains for hosting our users' websites.
 
 Normally, authoritative servers for our domains are from `mdns.jp`.
 
+## MAC Address
+
+We are assigned a MAC address block from IEEE:
+
+| range | start | end |
+|-------|-------|-----|
+| `60:a4:34:4x:xx:xx` | `60:a4:34:40:00:00` | `60:a4:34:4f:ff:ff` |
+
+We may use MAC addresses from this range on IXP ports, etc.
+
 ## Policy
 
 See [Policy](policy.html).
