@@ -13,7 +13,7 @@ lang: en
 
 ### Backbone
 
-![Backbone Weathermap](https://librenms.menhera.org/pub/weathermap/backbone.svg)
+[Backbone Weathermap](https://librenms.menhera.org/pub/weathermap/backbone.svg)
 
 ## MTU sizes
 Our network is interconnected with tunneling technologies.

@@ -13,7 +13,7 @@ lang: ja
 
 ### バックボーン
 
-![Backbone Weathermap](https://librenms.menhera.org/pub/weathermap/backbone.svg)
+[Backbone Weathermap](https://librenms.menhera.org/pub/weathermap/backbone.svg)
 
 ## MTU サイズ
 私たちのネットワークはトンネリング技術を使用して相互接続しています。
