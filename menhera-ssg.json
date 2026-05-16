@@ -39,6 +39,7 @@
   "shortcuts": [
     {"icon":"business", "title": "CORP", "url":"https://www.menhera.or.jp/"},
     {"icon":"public", "title": "NOC", "url":"https://www.menhera.ad.jp/", "selected": true},
+    {"icon":"search", "title": "LG", "url":"https://looking-glass.bc.menhera.org/"},
     {"icon":"work", "title": "Projects", "url":"https://www.menhera.org/"}
   ]
 }
