@@ -74,6 +74,8 @@ We may use MAC addresses from this range on IXP ports, etc.
 See [Policy](policy.html).
 
 ## Updates
+
+- 2025-10: We are now an IP Address Management Agent (LIR) at JPNIC.
 - 2024-07-20: New upstream provider AS150369 (Infal TelHi) is now available and connected.
 
 ## Maintenance and network faults information
