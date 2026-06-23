@@ -9,15 +9,22 @@ lang: ja
 
 ![Backbone](/assets/img/backbone-map.png)
 
+## 設備
+
+### 土浦 (m-ibr1)
+
+私たちは小さなプライベートデータセンターを茨城県土浦市で運用しています。これはMenhera®の本所と隣接しています。
+
+### 大手町 (m-tyo3)
+
+私たちは東京の大手町付近に小さなデータセンター設備を持ちます。これは相互接続点です。
+
+### 小さい PoP たち
+
+私たちはまた、東日本のあちこちに小さなPoPを持ちます。
+
 ## Weathermap
 
 ### バックボーン
 
 [Backbone Weathermap](https://librenms.menhera.org/pub/weathermap/backbone.svg)
-
-## MTU サイズ
-私たちのネットワークはトンネリング技術を使用して相互接続しています。
-
-* BGP バックボーンは，1500のMTUサイズを持ちます。
-* (Menhera.org の利用者向け) 内部のイントラネット接続は暗号化されていて， 1280 から 1372 までの MTU を持ちます。
-* どんな場合でも，IPv6 の最小である 1280 を MTU が下回ることはありません。

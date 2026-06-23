@@ -9,15 +9,22 @@ lang: en
 
 ![Backbone](/assets/img/backbone-map.png)
 
+## Facilities
+
+### Tsuchiura (m-ibr1)
+
+We operate a small private datacenter at Tsuchiura, Ibaraki, JP. This is co-located with Menhera® HQ.
+
+### Otemachi (m-tyo3)
+
+We operate a small datacenter facility around Otemachi, Tokyo, JP. This is an interconnection point.
+
+### Small PoPs
+
+We also operate several small PoPs across Eastern Japan.
+
 ## Weathermap
 
 ### Backbone
 
 [Backbone Weathermap](https://librenms.menhera.org/pub/weathermap/backbone.svg)
-
-## MTU sizes
-Our network is interconnected with tunneling technologies.
-
-* BGP backbone has the MTU size of 1500.
-* (For Menhera.org users) Internal intranet links are encrypted, so they have MTU sizes varying from 1280 to 1372.
-* In whatever case, MTU is never smaller than 1280, the IPv6 limit.

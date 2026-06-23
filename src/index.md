@@ -7,14 +7,16 @@ lang: en
 **Languages**: **English**
 | [Japanese (日本語)](/ja/)
 
-`menhera.ad.jp` is the domain for Network Operations of Menhera.org (Human-life Information Platforms Institute). Menhera.org is an 'IP Address Management Agent' (LIR) at JPNIC.
+`menhera.ad.jp` is the domain for Network Operations of Menhera® (Human-life Information Platforms Institute). Menhera® is an 'IP Address Management Agent' (LIR) at JPNIC. We are
+actively preparing for a Reported Telecommunication Carrier
+(届出電気通信事業者) status in Japan.
 
-* [Menhera.org network backbone](backbone.html)
+* [Menhera® network backbone](backbone.html)
 * [BGP Looking Glass](https://looking-glass.nc.menhera.org/)
 
 ## Managing Network resources
 
-Menhera.org has the autonomous system number (ASN), AS63806 (**MENHERA**).
+Menhera® has the autonomous system number (ASN), AS63806 (**MENHERA**).
 It has also IPv4 and IPv6 address prefixes, called together **MENHERA-NET**.
 
 _MENHERA-NET_ prefixes:
@@ -29,7 +31,7 @@ _MENHERA-NET_ prefixes:
 #### Trusteed and untrusted traffic
 
 The following IP ranges are for guests and isolated network services,
-so please remove them from your whitelist if you only want to allow traffic from Menhera.org.
+so please remove them from your whitelist if you only want to allow traffic from Menhera®.
 
 We also do not send emails from these IP addresses.
 On our side, we block outgoing port 25 from these IP addresses.
@@ -41,11 +43,17 @@ On our side, we block outgoing port 25 from these IP addresses.
 
 ### DNS domain names
 
-Obviously, `menhera.org.` is our main domain. `menhera.com.` is used by some internal services.
+Here's the short non-exhaustive list of DNS domains we control:
 
-We also have `menhera.ad.jp.` (LIR domain, used for mailing), `menhera.or.jp.` (Japanese corporate domain) and `menhera.jp` (short .JP domain).
-
-We use `*.menhera.io.` subdomains for hosting our users' websites.
+| DNS Domain Name | Description |
+|-----------------|-------------|
+| `menhera.org.` | Project website, branding |
+| `menhera.com.` | Google Workspace, branding |
+| `menhera.ad.jp.` | LIR Portal, Google Workspace |
+| `menhera.or.jp.` | Japanese corporate website |
+| `menhera.jp.` | Short .JP domain, redirect |
+| `mdns.jp.` | MDNS.JP Authoritative DNS |
+| `mnhr.org.` | URL Shortener |
 
 ### DNS authoritative servers
 
@@ -70,4 +78,4 @@ See [Policy](policy.html).
 
 ## Maintenance and network faults information
 
-[Menhera.org Status](https://status.menhera.org/)
+[Menhera® Status](https://status.menhera.org/)

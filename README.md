@@ -1,6 +1,6 @@
 # www.menhera.ad.jp
 
-www.menhera.ad.jp Website (Networking Operations of Information Technology Center; Menhera.org)
+www.menhera.ad.jp Website (NOC, IT Operations Center; Menhera®)
 
 ## History
 
