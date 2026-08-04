@@ -9,6 +9,8 @@ lang: ja
 
 `menhera.ad.jp` はMenhera® (一般社団法人生活情報基盤研究機構) のネットワーク・オペレーションズ・センター (NOC) のドメインです。Menhera® は JPNIC における IPアドレス管理指定事業者 (LIR) です。私たちはまた、届出電気通信事業者の取得に向け準備しています。
 
+物理的なネットワーク設備は現在主に日本に設置されていますが、参加およびサービスは世界中で利用可能です。
+
 * [Menhera® ネットワークバックボーン](backbone.html)
 * [BGP Looking Glass](https://looking-glass.nc.menhera.org/)
 

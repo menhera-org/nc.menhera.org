@@ -11,6 +11,8 @@ lang: en
 actively preparing for a Reported Telecommunication Carrier
 (届出電気通信事業者) status in Japan.
 
+Physical network facilities are currently located primarily in Japan, while participation and services are open globally.
+
 * [Menhera® network backbone](backbone.html)
 * [BGP Looking Glass](https://looking-glass.nc.menhera.org/)
 
