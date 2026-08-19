@@ -28,6 +28,8 @@ _MENHERA-NET_ prefixes:
 | IPv4       | `43.228.174.0/24`, `123.253.119.0/24` |
 | IPv6       | `2402:3160::/32-/48` |
 
+Note: ROA is issued for `2402:3160::/33-/48`, and this leaves the upper half of the prefix for internal use.
+
 ### Recognizing traffic from the organization
 
 #### Trusteed and untrusted traffic
