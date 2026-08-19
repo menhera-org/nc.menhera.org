@@ -41,5 +41,56 @@
     {"icon":"public", "title": "NOC", "url":"https://www.menhera.ad.jp/", "selected": true},
     {"icon":"search", "title": "LG", "url":"https://looking-glass.nc.menhera.org/"},
     {"icon":"work", "title": "Projects", "url":"https://www.menhera.org/"}
-  ]
+  ],
+  "json_ld": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Organization",
+        "@id": "https://www.menhera.or.jp/#organization",
+        "name": "Human-life Information Platforms Institute",
+        "url": "https://www.menhera.or.jp/"
+      },
+      {
+        "@type": "WebSite",
+        "@id": "https://www.menhera.ad.jp/#website",
+        "url": "https://www.menhera.ad.jp/",
+        "name": "AS63806 Menhera® NOC",
+        "alternateName": ["AS63806", "MENHERA-NET"],
+        "description": "Network Operations Center of AS63806 Menhera®: peering policy, AS-SET, prefixes and NOC contact.",
+        "inLanguage": "en",
+        "publisher": { "@id": "https://www.menhera.or.jp/#organization" },
+        "about": { "@id": "https://www.menhera.ad.jp/#as63806" }
+      },
+      {
+        "@type": "Service",
+        "@id": "https://www.menhera.ad.jp/#as63806",
+        "name": "AS63806 Menhera®",
+        "alternateName": "MENHERA-NET",
+        "description": "Non-profit research and education autonomous system operated in Japan. Dual-stack IPv4/IPv6, RPKI ROV validating.",
+        "serviceType": "Autonomous System",
+        "provider": { "@id": "https://www.menhera.or.jp/#organization" },
+        "areaServed": { "@type": "Country", "name": "Japan" },
+        "identifier": [
+          {
+            "@type": "PropertyValue",
+            "name": "Autonomous System Number",
+            "propertyID": "ASN",
+            "value": "AS63806"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "AS-SET",
+            "propertyID": "AS-SET",
+            "value": "JPIRR::AS-MENHERA"
+          }
+        ],
+        "sameAs": [
+          "https://www.peeringdb.com/net/34545",
+          "https://bgp.tools/as/63806",
+          "https://bgp.he.net/AS63806"
+        ]
+      }
+    ]
+  }
 }
