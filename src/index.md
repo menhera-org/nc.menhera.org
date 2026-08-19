@@ -1,6 +1,6 @@
 ---
 title: AS63806 NOC Top
-description: This is the homepage for AS63806 Menhera®, operated by the Human-life Information Platforms Institute (Menhera).
+description: AS63806 Menhera® — non-profit research and education network, open worldwide. MENHERA-NET prefixes, peering policy, address ranges and NOC information.
 lang: en
 ---
 

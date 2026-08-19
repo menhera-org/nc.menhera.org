@@ -1,6 +1,6 @@
 ---
 title: AS63806 NOC トップ
-description: 一般社団法人生活情報基盤研究機構 (Menhera) によって運用されている、AS63806 Menhera®のホームページです。
+description: AS63806 Menhera® — 全世界に開かれた非営利の研究・教育ネットワーク。MENHERA-NETのプレフィックス、ピアリングポリシー、アドレス範囲、およびNOC情報について。
 lang: ja
 ---
 

@@ -67,10 +67,9 @@
         "@id": "https://www.menhera.ad.jp/#as63806",
         "name": "AS63806 Menhera®",
         "alternateName": "MENHERA-NET",
-        "description": "Non-profit research and education autonomous system operated in Japan. Dual-stack IPv4/IPv6, RPKI ROV validating.",
+        "description": "Non-profit research and education autonomous system. Dual-stack IPv4/IPv6, RPKI ROV validating. Open to participation worldwide.",
         "serviceType": "Autonomous System",
         "provider": { "@id": "https://www.menhera.or.jp/#organization" },
-        "areaServed": { "@type": "Country", "name": "Japan" },
         "identifier": [
           {
             "@type": "PropertyValue",
