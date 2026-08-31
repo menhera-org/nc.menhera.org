@@ -1,0 +1,52 @@
+# AS63806 Menhera® NOC
+
+> Network Operations Center of AS63806 (MENHERA-NET), operated by the IT Operations Center of the Human-life Information Platforms Institute (一般社団法人生活情報基盤研究機構, Menhera®). AS63806 is a non-profit research and education autonomous system: dual-stack IPv4/IPv6, RPKI ROV validating, physically located mainly in Japan but open to participation worldwide.
+
+This site (`www.menhera.ad.jp`) publishes the operational facts about AS63806: address resources, peering policy, backbone facilities and network status. It is a small static site; every page exists in English and Japanese.
+
+Key facts:
+
+- **ASN**: AS63806 (`MENHERA`). **AS-SET**: `JPIRR::AS-MENHERA`. Networks together are called **MENHERA-NET**.
+- **Prefixes**: IPv4 `43.228.174.0/24`, `123.253.119.0/24`; IPv6 `2402:3160::/32-/48`. ROA is issued for `2402:3160::/33-/48` only — the upper half of the /32 is reserved for internal use.
+- **Guest / isolated ranges** (exclude these if you only want traffic from the organization itself): guests `43.228.174.224/28`, `2402:3160:e00::/40`; isolated network services `43.228.174.240/28`, `2402:3160:f00::/40`. No mail is sent from these ranges; outgoing port 25 is blocked there.
+- **Peering policy**: Selective. Mandatory: globally routable ASN and both IPv4 and IPv6. Recommended: RPKI/ROA-validatable routes, PeeringDB and IRR registration, responsive operational contact. Connections are tunnel-only — over the Internet (IPv4/IPv6) or over NTT East NGN via IPv6 — preferring EtherIP, GREtap or GENEVE over IPv6.
+- **Routing**: advertises AS-MENHERA; drops default routes and bogons; ignores prefixes longer than /24 (IPv4) and /48 (IPv6); filters with RPKI/ROV.
+- **Facilities**: Tsuchiura, Ibaraki (`m-ibr1`, private datacenter co-located with Menhera® HQ), Otemachi, Tokyo (`m-tyo3`, interconnection point), plus small PoPs across Eastern Japan.
+- **DNS domains controlled** (non-exhaustive): `menhera.org.` (projects, branding), `menhera.com.` (Google Workspace, branding), `menhera.ad.jp.` (LIR portal, Google Workspace), `menhera.or.jp.` (Japanese corporate site), `menhera.jp.` (short .JP redirect), `mdns.jp.` (MDNS.JP authoritative DNS), `mnhr.org.` (URL shortener). Authoritative servers are normally under `mdns.jp`.
+- **IEEE MAC block**: `60:a4:34:4x:xx:xx` (`60:a4:34:40:00:00`–`60:a4:34:4f:ff:ff`), used on IXP ports and similar.
+- **Organization**: an IP Address Management Agent (LIR) under JPNIC since 2025-10, and preparing for Reported Telecommunications Carrier (届出電気通信事業者) status in Japan. Japan Corporate Number (JCN) 7050005013201; D-U-N-S® Number 739529630.
+- **Contact**: operational contact is listed on PeeringDB (net 34545); no NOC address is published on this site.
+- **License**: site contents are CC-BY-4.0 unless otherwise stated, excluding trademarks. Menhera® is a registered trademark.
+
+## Pages (English)
+
+- [AS63806 NOC Top](https://www.menhera.ad.jp/): network resources — prefixes, guest/isolated ranges, DNS domains, MAC block, recent updates.
+- [AS63806 Backbone](https://www.menhera.ad.jp/backbone.html): backbone map, datacenter facilities and PoPs, weathermap.
+- [AS63806 Policy](https://www.menhera.ad.jp/policy.html): full peering policy — technical, operational, traffic, connection and routing requirements.
+
+## Pages (日本語)
+
+- [AS63806 NOC トップ](https://www.menhera.ad.jp/ja/): 上記トップページの日本語版。
+- [AS63806 バックボーン](https://www.menhera.ad.jp/ja/backbone.html): バックボーンと設備の日本語版。
+- [AS63806 ポリシー](https://www.menhera.ad.jp/ja/policy.html): ピアリングポリシーの日本語版。
+
+## Operations
+
+- [BGP Looking Glass](https://looking-glass.nc.menhera.org/): live routing table and BGP queries for AS63806.
+- [Menhera® Status](https://status.menhera.org/): maintenance announcements and network fault information.
+- [Backbone weathermap](https://librenms.menhera.org/pub/weathermap/backbone.svg): live backbone link utilization (SVG).
+
+## External references
+
+- [PeeringDB net 34545](https://www.peeringdb.com/net/34545): authoritative peering record and contacts for AS63806.
+- [bgp.tools AS63806](https://bgp.tools/as/63806): observed announcements and adjacencies.
+- [Hurricane Electric BGP Toolkit AS63806](https://bgp.he.net/AS63806): observed announcements and adjacencies.
+- [RIPE Atlas probe 7433](https://atlas.ripe.net/probes/7433): measurement probe hosted in the network.
+- [NLNOG RING node](https://map.ring.nlnog.net/?node=1325): RING node hosted in the network.
+- [JPNIC LIR CIDR block list](https://www.nic.ad.jp/ja/ip/member/cidr-block-list.txt): JPNIC member allocation list.
+
+## Optional
+
+- [Corporate site (menhera.or.jp)](https://www.menhera.or.jp/): the operating organization, Human-life Information Platforms Institute.
+- [Projects site (menhera.org)](https://www.menhera.org/): software and other projects, unrelated to network operations.
+- [Site source repository](https://github.com/menhera-org/nc.menhera.org): Markdown sources for these pages, built with [@menhera/ssg](https://github.com/menhera-org/menhera-ssg).
