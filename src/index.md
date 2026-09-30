@@ -2,6 +2,7 @@
 title: AS63806 NOC Top
 description: AS63806 Menhera® — non-profit research and education network, open worldwide. MENHERA-NET prefixes, peering policy, address ranges and NOC information.
 lang: en
+csp: default-src 'none'; style-src 'self' https://fonts.googleapis.com; script-src 'self'; worker-src 'self'; manifest-src 'self'; font-src 'self' https://fonts.gstatic.com; img-src 'self' https://liberapay.com; base-uri 'none';
 ---
 
 **Languages**: **English**
@@ -15,6 +16,10 @@ Physical network facilities are currently located primarily in Japan, while part
 
 * [Menhera® network backbone](backbone.html)
 * [BGP Looking Glass](https://looking-glass.nc.menhera.org/)
+
+## Please donate!
+
+[![Donate using Liberapay](https://liberapay.com/assets/widgets/donate.svg)](https://liberapay.com/menhera/donate)
 
 ## Managing Network resources
 

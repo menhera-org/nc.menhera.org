@@ -2,6 +2,7 @@
 title: AS63806 NOC トップ
 description: AS63806 Menhera® — 全世界に開かれた非営利の研究・教育ネットワーク。MENHERA-NETのプレフィックス、ピアリングポリシー、アドレス範囲、およびNOC情報について。
 lang: ja
+csp: default-src 'none'; style-src 'self' https://fonts.googleapis.com; script-src 'self'; worker-src 'self'; manifest-src 'self'; font-src 'self' https://fonts.gstatic.com; img-src 'self' https://liberapay.com; base-uri 'none';
 ---
 
 **Languages**: **Japanese (日本語)**
@@ -13,6 +14,10 @@ lang: ja
 
 * [Menhera® ネットワークバックボーン](backbone.html)
 * [BGP Looking Glass](https://looking-glass.nc.menhera.org/)
+
+## 寄附のお願い
+
+[![Donate using Liberapay](https://liberapay.com/assets/widgets/donate.svg)](https://liberapay.com/menhera/donate)
 
 ## 管理するネットワーク資源
 
