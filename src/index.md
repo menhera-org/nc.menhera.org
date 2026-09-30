@@ -84,6 +84,7 @@ See [Policy](policy.html).
 
 ## Updates
 
+- 2026-09: We now have a proper PoP at a datacenter at Otemachi, Tokyo.
 - 2025-10: We are now an IP Address Management Agent (LIR) at JPNIC.
 - 2024-07-20: New upstream provider AS150369 (Infal TelHi) is now available and connected.
 
